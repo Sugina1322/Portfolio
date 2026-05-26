@@ -1583,7 +1583,7 @@ export function CyberNoirPortfolio() {
       <header className={`zine-header ${portfolioUnlocked ? 'zine-header-unlocked' : 'zine-header-locked'}`}>
         <a className="zine-brand" href="#top">
           JEAN
-          <span>Welcome to my World</span>
+          <span>Welcome</span>
         </a>
         {portfolioUnlocked ? (
           <nav aria-label="World navigation">
