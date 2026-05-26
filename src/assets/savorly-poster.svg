@@ -1,0 +1,16 @@
+<svg width="720" height="960" viewBox="0 0 720 960" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="960" rx="48" fill="#F9F6F0"/>
+  <rect x="40" y="40" width="640" height="880" rx="34" fill="#FFFDF8"/>
+  <circle cx="352" cy="368" r="188" fill="#FDE6CF"/>
+  <circle cx="352" cy="368" r="136" fill="#F59E0B"/>
+  <circle cx="352" cy="368" r="94" fill="#FFF6E6"/>
+  <path d="M300 308C316 282 344 270 372 270C418 270 458 308 458 356C458 414 406 450 352 492C300 450 246 414 246 356C246 328 258 304 278 288" stroke="#0F172A" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="464" y="184" width="112" height="16" rx="8" fill="#0F172A"/>
+  <rect x="498" y="208" width="16" height="90" rx="8" fill="#0F172A"/>
+  <rect x="152" y="190" width="22" height="124" rx="11" fill="#0F172A"/>
+  <rect x="188" y="190" width="22" height="124" rx="11" fill="#0F172A"/>
+  <rect x="224" y="190" width="22" height="124" rx="11" fill="#0F172A"/>
+  <rect x="120" y="626" width="480" height="84" rx="28" fill="#FFF3DA" stroke="#F59E0B" stroke-width="4"/>
+  <text x="120" y="842" fill="#0F172A" font-family="Archivo, Arial, sans-serif" font-size="66" font-weight="700" letter-spacing="-3">SAVORLY</text>
+  <text x="122" y="886" fill="#6B7280" font-family="Space Grotesk, Arial, sans-serif" font-size="24" font-weight="500">Food discovery • saved collections • recipes</text>
+</svg>

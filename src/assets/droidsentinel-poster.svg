@@ -1,0 +1,17 @@
+<svg width="720" height="960" viewBox="0 0 720 960" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="960" rx="48" fill="#EEF2F8"/>
+  <rect x="40" y="40" width="640" height="880" rx="34" fill="#FFFFFF"/>
+  <rect x="248" y="220" width="224" height="380" rx="36" fill="#111827"/>
+  <rect x="268" y="248" width="184" height="300" rx="24" fill="#1E293B"/>
+  <rect x="300" y="290" width="120" height="8" rx="4" fill="#3B82F6"/>
+  <rect x="300" y="318" width="88" height="8" rx="4" fill="#64748B"/>
+  <rect x="300" y="346" width="104" height="8" rx="4" fill="#64748B"/>
+  <circle cx="360" cy="430" r="34" fill="#22C55E" fill-opacity="0.2"/>
+  <path d="M344 430L356 442L378 418" stroke="#22C55E" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="188" y="500" width="96" height="56" rx="14" fill="#DBEAFE"/>
+  <rect x="436" y="500" width="96" height="56" rx="14" fill="#DBEAFE"/>
+  <path d="M284 528H436" stroke="#3B82F6" stroke-width="6" stroke-linecap="round"/>
+  <rect x="132" y="786" width="456" height="32" rx="16" fill="#E2E8F0"/>
+  <text x="96" y="842" fill="#0F172A" font-family="Archivo, Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="-2">DROIDSENTINEL</text>
+  <text x="98" y="884" fill="#64748B" font-family="Space Grotesk, Arial, sans-serif" font-size="22" font-weight="500">Android security hardening " ADB " Windows</text>
+</svg>

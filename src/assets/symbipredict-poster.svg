@@ -1,0 +1,17 @@
+<svg width="720" height="960" viewBox="0 0 720 960" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="960" rx="48" fill="#F7F4FF"/>
+  <rect x="40" y="40" width="640" height="880" rx="34" fill="#FFFFFF"/>
+  <rect x="128" y="168" width="464" height="356" rx="28" fill="#F5F3FF" stroke="#C4B5FD" stroke-width="4"/>
+  <path d="M168 454C224 412 240 376 282 376C324 376 322 430 358 430C394 430 410 286 462 286C514 286 512 356 552 334" stroke="#7C3AED" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M168 334H552" stroke="#D8D2F5" stroke-width="6" stroke-dasharray="12 12"/>
+  <path d="M168 258H552" stroke="#E9E3FF" stroke-width="6" stroke-dasharray="12 12"/>
+  <path d="M168 410H552" stroke="#E9E3FF" stroke-width="6" stroke-dasharray="12 12"/>
+  <rect x="150" y="610" width="188" height="188" rx="34" fill="#7C3AED"/>
+  <path d="M244 658V746" stroke="#FFFFFF" stroke-width="18" stroke-linecap="round"/>
+  <path d="M200 702H288" stroke="#FFFFFF" stroke-width="18" stroke-linecap="round"/>
+  <rect x="382" y="610" width="188" height="188" rx="34" fill="#111827"/>
+  <circle cx="476" cy="704" r="56" stroke="#FFFFFF" stroke-width="14"/>
+  <path d="M476 658V704L510 724" stroke="#FFFFFF" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="96" y="852" fill="#111827" font-family="Archivo, Arial, sans-serif" font-size="62" font-weight="700" letter-spacing="-3">SYMBIPREDICT</text>
+  <text x="98" y="894" fill="#6B7280" font-family="Space Grotesk, Arial, sans-serif" font-size="24" font-weight="500">Predictive healthcare • forecasting • outbreak signals</text>
+</svg>

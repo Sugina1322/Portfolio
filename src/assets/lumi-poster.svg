@@ -1,0 +1,14 @@
+<svg width="720" height="960" viewBox="0 0 720 960" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="960" rx="48" fill="#F7F8FC"/>
+  <rect x="40" y="40" width="640" height="880" rx="34" fill="#FFFFFF"/>
+  <circle cx="560" cy="170" r="88" fill="#DCEAFF"/>
+  <circle cx="560" cy="170" r="54" fill="#2563EB"/>
+  <path d="M124 724C190 610 258 536 334 474C410 412 478 344 572 214" stroke="#0F172A" stroke-width="18" stroke-linecap="round"/>
+  <path d="M124 724C196 736 280 704 350 652C432 590 498 500 566 394" stroke="#2563EB" stroke-width="8" stroke-linecap="round" stroke-dasharray="16 18"/>
+  <circle cx="124" cy="724" r="24" fill="#0F172A"/>
+  <circle cx="350" cy="652" r="18" fill="#2563EB"/>
+  <circle cx="572" cy="214" r="24" fill="#0F172A"/>
+  <rect x="96" y="96" width="154" height="34" rx="17" fill="#E8EDF8"/>
+  <text x="96" y="846" fill="#0F172A" font-family="Archivo, Arial, sans-serif" font-size="74" font-weight="700" letter-spacing="-3">LUMI</text>
+  <text x="98" y="890" fill="#4B5563" font-family="Space Grotesk, Arial, sans-serif" font-size="24" font-weight="500">Travel routing • planning • budget logs</text>
+</svg>
