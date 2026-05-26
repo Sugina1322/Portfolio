@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
   <rect width="64" height="64" rx="12" fill="#05070b"/>
   <path d="M10 12h44v40H10z" fill="none" stroke="#00f0ff" stroke-width="3"/>
-  <path d="M19 42V22h6l7 11 7-11h6v20h-6V31l-7 11-7-11v11z" fill="#f0eee7"/>
+  <text x="32" y="38" fill="#f0eee7" font-family="Arial, sans-serif" font-size="18" font-weight="800" text-anchor="middle" letter-spacing="-1">JCS</text>
   <path d="M10 52h44" stroke="#f5a623" stroke-width="4"/>
 </svg>
